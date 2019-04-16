@@ -1,0 +1,1 @@
+s/charactersfrom start & end of string 

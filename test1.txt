@@ -1,0 +1,1 @@
+# capitalize -> to make first letter of string capital, rest all small
